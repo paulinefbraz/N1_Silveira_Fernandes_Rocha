@@ -14,7 +14,7 @@ Malha viária como grafo dirigido: cruzamentos são estados, ruas são arcos com
 Professor: Aldo Henrique Mendes.
 
 
-**Apresentação 3D interativa:** abra `apresentacao_3d/index.html` no Chrome ou Edge (duplo clique, funciona offline. 12 slides com animações que reproduzem passo a passo os rastros reais das buscas. Teclas: `→`/`←` passo ou slide, `espaço` reproduz, `R` reinicia, `F` tela cheia.
+**Apresentação 3D interativa:** abra `apresentacao/index.html` no Chrome ou Edge (duplo clique, funciona offline. 12 slides com animações que reproduzem passo a passo os rastros reais das buscas. Teclas: `→`/`←` passo ou slide, `espaço` reproduz, `R` reinicia, `F` tela cheia.
 
 ## 2. Como executar
 
