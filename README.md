@@ -105,11 +105,11 @@ Superestimar tira a garantia, não necessariamente o acerto: na i1 o limiar é k
 
 ## 7. Divisão de autoria
 
-| Integrante | Arquivos / funções | Perguntas do banco |
+| Integrante | Arquivos / funções | 
 |---|---|---|
-| Pauline Fernandes Braz | `grafo.py` (`carregar_instancia`, `montar_instancia`, `validar_instancia`, `sucessores`, `custo_do_caminho`), `gerador.py` (`gerar_grade`, `gerar_instancia_com_caminho`), `instancias/*.json` | 3, 6, 11, 12 |
-| Nathan David Oliveira da Rocha | `buscas.py` (`busca_em_largura`, `busca_melhor_primeiro`, `reconstruir_caminho`, `ResultadoBusca`, invólucros custo uniforme/A*/gulosa) | 1, 2, 4, 5, 8, 10 |
-| Miguel Da Silveira Palhares Leite | `heuristicas.py` (`h_linha_reta`, `fabricar_h_superestimada`), `metricas.py` (`Metricas`, `cronometrar`), `experimentos.py`, `main.py` | 7, 9, 13, 14 |
-| Todos | `testes.py` (cada um confere as funções do seu módulo), `documentos/` (artigo e slides), este README | 15 |
+| Pauline Fernandes Braz | `grafo.py` (`carregar_instancia`, `montar_instancia`, `validar_instancia`, `sucessores`, `custo_do_caminho`), `gerador.py` (`gerar_grade`, `gerar_instancia_com_caminho`), `instancias/*.json` |
+| Nathan David Oliveira da Rocha | `buscas.py` (`busca_em_largura`, `busca_melhor_primeiro`, `reconstruir_caminho`, `ResultadoBusca`, invólucros custo uniforme/A*/gulosa) | 
+| Miguel Da Silveira Palhares Leite | `heuristicas.py` (`h_linha_reta`, `fabricar_h_superestimada`), `metricas.py` (`Metricas`, `cronometrar`), `experimentos.py`, `main.py` |
+| Todos | `testes.py` (cada um confere as funções do seu módulo), `documentos/` (artigo e slides), este README |
 
 
